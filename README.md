@@ -1,7 +1,7 @@
 # The MET landing Page
-This landing page provides a website page for The Metropolitan Museum of Art, also known as The Met.
+The landing page of The Metropolitan Museum of Art, also known as The Met.
 
-The webpage includes **HTML** and **SCSS** code to create the webpage's structure, style, and some functionality.
+The page includes **HTML** and **SCSS** code for creating structure, style, and some functionality.
 
 - [DEMO LINK](https://sergey-lipikhin.github.io/met-landing/)
 - [MOCKUP](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?t=BmVvxVDIxUoYIAJy-0)
